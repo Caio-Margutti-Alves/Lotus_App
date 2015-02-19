@@ -1,0 +1,1648 @@
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 01_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+G:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+G:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+G:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+G:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+G:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+F:\Lotus_versões\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 02_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+F:\Lotus_versões\Lótus 03_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Funcionario.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 04_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 05_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+J:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 06_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+G:\Lotus_versões\Lótus 07_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 10_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 11_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 12_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+L:\Lotus_versões\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 13_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 14_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 15_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 16_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Professor.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Consulta_Faltas_Adnoturno.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Falta.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+E:\Lotus_versões\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 17_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 18_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus Versões\Lótus 19_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Turma.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 20_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+E:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Apresentação TCC\Lótus 21_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+C:\Users\a\Desktop\Lótus 22_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 23_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+I:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+E:\Lotus_versões\Lótus 24_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 25_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+C:\Users\a\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 26_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.exe
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.pdb
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Lótus 1.0.xml
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\bin\Debug\Interop.WIAVIDEOLib.dll
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Graficos_aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relacionamento_Disciplina_Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplinas_ministradas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_esqueceu_senha.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Adicional_Noturno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Aluno_Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Faltas_Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Dispensa_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Horario_Aulas.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Relatorios_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Turma.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Cadastro_Eventos.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Disciplina.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Professor.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Curso.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Unidade_Escolar.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Chamada_Aluno.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.usuario.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.configuracoes.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.WebCam.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_Login.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.Resources.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus_1._0.frm_interface.resources
+D:\Documents and Settings\Caio.HOME\Desktop\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.GenerateResource.Cache
+G:\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Interop.WIAVIDEOLib.dll
+G:\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.vbproj.ResolveComReference.cache
+G:\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.exe
+G:\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.xml
+G:\Apresentação Final TCC\Lótus 27_06_2011\Lótus 1.0\Lótus 1.0\obj\Debug\Lótus 1.0.pdb
